@@ -6,7 +6,7 @@
 #include<arpa/inet.h>
 #include<string.h>
 
-#define PORT 41000
+#define PORT 8080
 #define BUFF 2048
 
 

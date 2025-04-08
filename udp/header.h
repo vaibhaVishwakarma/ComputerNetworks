@@ -6,9 +6,9 @@
 #include<arpa/inet.h>
 #include<string.h>
 
-#define SERVER "0.0.0.0"
+#define SERVER "192.168.0.153"
 #define BUFF 2048
-#define PORT 41001
+#define PORT 8080
 #define TERMINATE "END"
 #define printTable(s1,s2) printf("%-15s -|- %-15s\n",s1,s2)
 
